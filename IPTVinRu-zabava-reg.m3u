@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" refresh="86400" tvg-shift=0 cache=500
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}" refresh="86400" tvg-shift=0 cache=500
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-zabava-reg 06.09 20:08 ren-pilot-m4 & DenysMath from http://iptvin.ru channels 1858 
 http://overlay.iptvin.fun/iptvin.ru.mp4
 #EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/S3fJTns/024614b06bdfdc2444ef5229fab8773c.png" logo="https://i.ibb.co/9YYnQ40/22654940aeed4b5e8654e5c870d2915a.png" channelId="14" tvg-id="2na2",2x2
