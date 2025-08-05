@@ -3,3 +3,42 @@
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/1080p.m3u8
 #EXTINF:-1,Регион 45
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
+
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",viju nature-2025-8-5-13-08 http://iptvin.ru
+http://overlay.iptvin.online/iptvin.ru.mp4
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные",Viju Nature HD
+http://185.26.157.3:8080/live/viasat_nature/mono.m3u8
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные",Viju Nature
+http://178.217.72.66:8080/Viasat_Nature/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/tZ70R8r/f9594814523caac76d84b83ee2ee32cc.png" logo="https://i.ibb.co/wwmdbF2/4036b4997cd53aa9bea1f76bc2874e90.png" channelId="757" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/09/WF_logo_BLACK_2017.jpg" channelId="258" tvg-id="world-fashion-channel",World Fashion
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",viju Nature
+http://95.85.109.219:7000/play/a093
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",viju Nature
+http://95.85.109.219:7000/play/a093
+#EXTINF:-1 CUID="85" number="185" tvg-id="tvteam_:Viju Nature HD" tvg-name="tvteam_:Viju Nature HD" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/VIASATNATURE200.png" group-title="Познавательные",Viju Nature HD
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDg3Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUyLzgwODcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjEiLCJhZnAiOiI4MDg3IiwiYXRzIjoiMzM2IiwibCI6IjQ5MTViNjE2IiwicCI6IjQ5MTViNjE2ZDIyY2VkMjIiLCJjIjoiODUiLCJ0IjoiYWJiNzBmYTkwOWU1NWM3NWVhNGUzY2I0ZTBkNGEzNzUiLCJkIjoiMTkyMjUxIiwiciI6IjE5NjA0NyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwODcvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/tZ70R8r/f9594814523caac76d84b83ee2ee32cc.png" logo="https://i.ibb.co/wwmdbF2/4036b4997cd53aa9bea1f76bc2874e90.png" channelId="757" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature HD
+http://de.online24.pm/play/119/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",viju Nature
+http://95.85.109.219:7000/play/a093
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://178.217.72.66:8080/Viasat_Nature/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://217.11.177.56/streams/media/viasat-nature_720x576/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://31.133.36.244:8000/167
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://85.117.61.97:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://95.85.109.219:7000/play/a093
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://tv.ttk.mx:9186
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://130.193.73.10:8937/play/a01k
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://130.193.73.10:8937/play/a01k
