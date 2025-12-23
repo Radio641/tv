@@ -2,5 +2,36 @@
 #EXTINF:-1,Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/1080p.m3u8
 #EXTINF:-1,Регион 45
-https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
- l
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.my
+#EXTINF:0,Авторадио (Курган)
+http://srv11.gpmradio.ru:8000/stream/reg/mp3/128/region_avto_532
+#EXTINF:0,Дорожное Радио (Курган)
+http://195.88.63.114:8000/dor
+#EXTINF:0,Радио Юмор FM (Курган)
+http://195.88.63.114:8000/humor
+#EXTINF:0,Радио России (Курган)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/radio_russia/index.m3u8
+#EXTINF:0,Радио Ретро FM (Курган)
+http://195.88.63.114:8000/retro
+#EXTINF:0,Радио Монте-Карло (Курган)
+http://78.108.67.237:53804/stream
+#EXTINF:0,Радио Дача (Курган)
+http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_71906
+#EXTINF:0,Радио Европа Плюс (Курган)
+http://emgregion.hostingradio.ru:8064/kurgan.europaplus.mp3
+#EXTINF:0,Радио Ваня (Курган)
+http://195.88.63.114:8000/vanya
+#EXTINF:0,Лав Радио (Курган)
+http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_119239
+#EXTINF:0,Радио DFM (Курган)
+http://195.88.63.114:8000/dfm
+#EXTINF:0,Радио За Облаками (Курган)
+http://195.88.63.114:8000/zaoblakami
+#EXTINF:0,Relax
+http://195.88.63.114:8000/relax
+#EXTINF:0,Rock
+http://195.88.63.114:8000/rock
+#EXTINF:0,Радио Хит FM (Курган)
+http://s0.radioheart.ru:8000/RH75551
+#EXTINF:0,Русское Радио (Курган)
+http://78.108.67.237:53800/stream
