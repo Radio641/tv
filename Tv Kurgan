@@ -34,6 +34,9 @@ http://195.88.63.114:8000/rock
 #EXTINF:0,Радио Хит FM (Курган)
 http://s0.radioheart.ru:8000/RH75551
 #EXTINF:0,Русское Радио (Курган)
+#EXTINF:0,Радио Авторадио (Москва)
+https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8
+
 http://78.108.67.237:53800/stream
 #EXTINF:-1,Avatar
 https://salam-ekb-t2-d111.rtbcdn.ru/dive/river-5-532.rtbcdn.ru/fUk8x5rEvfy_XnVzeuKoSg/hls-vod/tmGCDbfitcaA-EvtsqwUXQ/1769139358/3332/0x5000c500e9cf61ae/f69696d7ca38496fa7149a70fb99558b.mp4.m3u8?i=1920x832_9128
