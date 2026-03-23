@@ -37,6 +37,8 @@ http://s0.radioheart.ru:8000/RH75551
 http://78.108.67.237:53800/stream
 #EXTINF:0,Радио Авторадио (Москва)
 https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8?
+#EXTINF:-1,От всей души 
+https://hls-01-povd.hostingradio.ru/povd/112/playlist.m3u8
 
 
 #EXTINF:-1,Avatar
