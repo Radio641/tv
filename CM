@@ -21,6 +21,12 @@ proxies:
   sni: ok.ru
   network: h2
   <<: *msq
+- name: "MAX h2"
+  server: 162.159.198.2
+  port: 443
+  sni: max.ru
+  network: h2
+  <<: *msq
     
 proxy-groups:
 - name: WARP
