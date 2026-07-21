@@ -15,16 +15,11 @@ proxies:
   port: 443
   sni: vk.ru
   <<: *msq
-- name: "MASQUE h2"
-  server: 162.159.198.2
+- name: "MASQUE 5 h2"
+  server: 162.159.198.5
   port: 443
   sni: ok.ru
   network: h2
-  <<: *msq
-- name: "MAX h2"
-  server: 162.159.198.6
-  port: 443
-  sni: max.ru
   <<: *msq
     
 proxy-groups:
