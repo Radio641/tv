@@ -15,8 +15,8 @@ proxies:
   port: 443
   sni: vk.ru
   <<: *msq
-- name: "MASQUE 5 h2"
-  server: 162.159.198.5
+- name: "MASQUE h2"
+  server: 162.159.198.2
   port: 443
   sni: ok.ru
   network: h2
