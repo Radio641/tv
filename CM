@@ -10,12 +10,12 @@ msq: &msq
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]  
   
 proxies:
-- name: "MASQUE"
+- name: "MASQUE VK"
   server: 162.159.198.2
   port: 443
   sni: vk.ru
   <<: *msq
-- name: "MASQUE h2"
+- name: "MASQUE h2 OK"
   server: 162.159.198.2
   port: 443
   sni: ok.ru
