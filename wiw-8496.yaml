@@ -33,6 +33,7 @@ proxies:
     h2: 2
     h3: 3
     h4: 4
+    i1: <b 0xc800000001018800002b45615e996de27ff5ec5f583061ab38eac69fd8fec356802847cd1c7c15a87402bb0a433d4054defedc066e>
 - name: 🔴 Выходной
   type: wireguard
   server: 188.114.98.15
