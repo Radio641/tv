@@ -91,36 +91,36 @@ proxies:
   <<: *msq
 - name: "🇵🇱 PL"
   <<: [ *warp-common, *awg ]
-  server: pl.tribukvy.ltd
+  server: pl.llimonix.pw
   port: 500
 - name: "🇳🇱 NL"
   <<: [ *warp-common, *awg ]
-  server: nl.tribukvy.ltd
+  server: nl.llimonix.pw
   port: 500  
 - name: "🇫🇮 FI"
   <<: [ *warp-common, *awg ]
-  server: fi.tribukvy.ltd
+  server: fi.llimonix.pw
   port: 500
 - name: "🇷🇺 RU"
   <<: [ *warp-common, *awg ]
-  server: ru0.tribukvy.ltd
+  server: ru0.llimonix.pw
   port: 500
 - name: "🇱🇻 LV"
   <<: [ *warp-common, *awg ]
-  server: lv.tribukvy.ltd
+  server: lv.llimonix.pw
   port: 500
 - name: "🇩🇪 DE"
   <<: [ *warp-common, *awg ]
-  server: de.tribukvy.ltd
+  server: de.llimonix.pw
   port: 500
   
 - name: "[LTE] 🇵🇱 PL"
   <<: [ *warp-common, *awg ]
-  server: tel.pl.tribukvy.ltd
+  server: tel.pl.llimonix.pw
   port: 500
 - name: "[LTE] 🇫🇮 FI"
   <<: [ *warp-common, *awg ]
-  server: tel.fi.tribukvy.ltd
+  server: tel.fi.llimonix.pw
   port: 500    
 proxy-groups:
 - name: WARP + llimonix
